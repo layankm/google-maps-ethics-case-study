@@ -18,10 +18,10 @@ The research applies ethical frameworks and literature-based qualitative analysi
 
 ## Authors
 - Layan Almalki
-- Latifah Aljuraid
-- Noura Alrashidi
-- Hessa Alshidi
-- Alanoud Anjan
+- Nourah Alrashidi
+- Hessah Alsheddi
+- Alanoud Bin Ejyan
+- Latifah Aljurayyad
 
 ## Repository Contents
 - `Google-Maps_Ethical-Case-Study.pdf` — Full case study report
